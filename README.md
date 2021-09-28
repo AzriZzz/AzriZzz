@@ -26,8 +26,8 @@
  
  <p align="center">
   <a href="https://github.com/AzriZzz">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AzriZzz&count_private=true&show_icons=true&theme=radical" />
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AzriZzz&theme=radical&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AzriZzz&count_private=true&show_icons=true&theme=radical" />
+    <img height="1500em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AzriZzz&theme=radical&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
   </a>
 </p>
  
