@@ -26,14 +26,11 @@
  
  <p align="center">
   <a href="https://github.com/AzriZzz">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AzriZzz&count_private=true&show_icons=true&theme=radical" />
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AzriZzz&theme=radical&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AzriZzz&count_private=true&show_icons=true&theme=radical" />
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AzriZzz&theme=radical&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
   </a>
 </p>
  
-![Azri's github stats]
-(https://github-readme-stats.vercel.app/api?username=AzriZzz)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzriZzz)](https://github.com/AzriZzz/github-readme-stats)
-
 <!--
 **AzriZzz/AzriZzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
