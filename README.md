@@ -5,8 +5,7 @@
 - 🔭 I’m currently working on Enterprise Application Development
 - 🌱 At the moment I'm refreshing my React skills before I jump into Web3.js ✨
 - 📫 I'm looking for an opportunity for US remote, let's talk if you interested in knowing me 😊
-- ⭐ Find me on <a target="_blank href="https://www.linkedin.com/in/azrizzz/"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>    
-  
+- ⭐ Find me on LinkedIn https://www.linkedin.com/in/azrizzz/
     
 
 <br/>
