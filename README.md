@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Frontend Developer based in Malaysia.</h3>
 
 - 🔭 I’m currently working on Enterprise Application Development
-- 🌱 At the moment I'm working on studying on Vue.js because I just got a job offer that demand me to know ✨Vue.js✨
+- 🌱 At the moment I'm working on studying on Angular, NextJs because I love build with this technology!
 <!-- - 🌱 At the moment I'm diving into Web3.js, looking forward to work in this domain if given the chances ✨ -->
 - 📫 I'm looking for an opportunity for US remote, let's talk if you interested in knowing me 😊
 - ⭐ Find me on LinkedIn https://www.linkedin.com/in/azrizzz/
